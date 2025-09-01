@@ -29,6 +29,7 @@
             ## Go
             go
             gopls
+            gofumpt
             ;
         };
       };
