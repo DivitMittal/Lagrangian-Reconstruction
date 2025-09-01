@@ -7,7 +7,7 @@ type Point struct {
 }
 
 type TestCase struct {
-	Keys   Keys                           `json:"keys"`
+	Keys   Keys                         `json:"keys"`
 	Shares map[string]map[string]string `json:"-"`
 }
 
