@@ -1,0 +1,15 @@
+= Lagrangian Reconstruction
+
+Go implementation of Shamir's Secret Sharing using Lagrange interpolation.
+
+== Usage
+
+[source,bash]
+----
+go run . ./tests/test*.json
+----
+
+== Requirements
+
+* Go 1.21+
+* Nix (optional, for development environment)
