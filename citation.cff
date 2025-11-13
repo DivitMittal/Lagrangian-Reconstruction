@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Lagrangian Reconstruction: Shamir's Secret Sharing Implementation"
+abstract: >-
+  A Go implementation of Shamir's Secret Sharing scheme that reconstructs
+  cryptographic secrets from polynomial evaluation points stored in various
+  numeric bases using Lagrange interpolation with arbitrary precision arithmetic.
+authors:
+  - family-names: "Your-Family-Name"
+    given-names: "Your-Given-Name"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    # email: your.email@example.com
+keywords:
+  - cryptography
+  - secret-sharing
+  - shamir-secret-sharing
+  - lagrange-interpolation
+  - go
+  - golang
+  - arbitrary-precision
+  - polynomial-interpolation
+license: "Unknown"  # Update with your license (e.g., MIT, Apache-2.0, GPL-3.0)
+# repository-code: "https://github.com/username/lagrangian-reconstruction"
+# url: "https://github.com/username/lagrangian-reconstruction"
+# version: 0.1.0
+# date-released: 2025-01-01

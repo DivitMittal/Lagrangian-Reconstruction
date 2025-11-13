@@ -1,0 +1,14 @@
+{
+  "enabledMcpjsonServers": ["serena"],
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "allow": [
+      "Bash(go run:*)",
+      "Bash(nix flake check:*)",
+      "Bash(nix fmt:*)",
+      "Bash(nix develop:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
