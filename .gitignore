@@ -14,7 +14,6 @@ result-*
 
 ## AI
 .serena*
-*local.json
-.claude*
-Claude.md
+.claude/
+AGENTS.md
 .mcp*
