@@ -17,3 +17,6 @@ result-*
 .claude/
 AGENTS.md
 .mcp*
+
+## git worktrees kept inside the project directory
+.worktrees/
