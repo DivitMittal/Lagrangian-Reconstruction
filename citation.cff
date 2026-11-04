@@ -20,7 +20,7 @@ keywords:
   - golang
   - arbitrary-precision
   - polynomial-interpolation
-license: "Unknown"  # Update with your license (e.g., MIT, Apache-2.0, GPL-3.0)
+license-url: "https://github.com/DivitMittal/Lagrangian-Reconstruction/blob/main/LICENSE"
 # repository-code: "https://github.com/username/lagrangian-reconstruction"
 # url: "https://github.com/username/lagrangian-reconstruction"
 # version: 0.1.0
